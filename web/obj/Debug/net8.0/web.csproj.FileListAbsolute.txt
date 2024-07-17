@@ -1,0 +1,78 @@
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\core.deps.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\core.runtimeconfig.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\core.exe
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\appsettings.Development.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\appsettings.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.staticwebassets.runtime.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.exe
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.deps.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.runtimeconfig.json
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\web.pdb
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\NHunspell.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\core.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\bin\Debug\net8.0\core.pdb
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.csproj.AssemblyReference.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.AssemblyInfoInputs.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.AssemblyInfo.cs
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.csproj.CoreCompileInputs.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.MvcApplicationPartsAssemblyInfo.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.RazorAssemblyInfo.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.RazorAssemblyInfo.cs
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets\msbuild.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets\msbuild.build.web.props
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web.props
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web.props
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\scopedcss\bundle\web.styles.css
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\scopedcss\projectbundle\web.bundle.scp.css
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.csproj.CopyComplete
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\refint\web.dll
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.pdb
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\web.genruntimeconfig.cache
+D:\Current Project\ideahubbd\KiLikhbo\web\obj\Debug\net8.0\ref\web.dll
+D:\Project\web\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\web\bin\Debug\net8.0\appsettings.json
+D:\Project\web\bin\Debug\net8.0\core.deps.json
+D:\Project\web\bin\Debug\net8.0\core.runtimeconfig.json
+D:\Project\web\bin\Debug\net8.0\core.exe
+D:\Project\web\bin\Debug\net8.0\web.staticwebassets.runtime.json
+D:\Project\web\bin\Debug\net8.0\web.exe
+D:\Project\web\bin\Debug\net8.0\web.deps.json
+D:\Project\web\bin\Debug\net8.0\web.runtimeconfig.json
+D:\Project\web\bin\Debug\net8.0\web.dll
+D:\Project\web\bin\Debug\net8.0\web.pdb
+D:\Project\web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\web\bin\Debug\net8.0\NHunspell.dll
+D:\Project\web\bin\Debug\net8.0\core.dll
+D:\Project\web\bin\Debug\net8.0\core.pdb
+D:\Project\web\obj\Debug\net8.0\web.csproj.AssemblyReference.cache
+D:\Project\web\obj\Debug\net8.0\web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\web\obj\Debug\net8.0\web.AssemblyInfoInputs.cache
+D:\Project\web\obj\Debug\net8.0\web.AssemblyInfo.cs
+D:\Project\web\obj\Debug\net8.0\web.csproj.CoreCompileInputs.cache
+D:\Project\web\obj\Debug\net8.0\web.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\web\obj\Debug\net8.0\web.RazorAssemblyInfo.cache
+D:\Project\web\obj\Debug\net8.0\web.RazorAssemblyInfo.cs
+D:\Project\web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\web\obj\Debug\net8.0\staticwebassets\msbuild.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\web\obj\Debug\net8.0\staticwebassets\msbuild.build.web.props
+D:\Project\web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web.props
+D:\Project\web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web.props
+D:\Project\web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\web\obj\Debug\net8.0\scopedcss\bundle\web.styles.css
+D:\Project\web\obj\Debug\net8.0\scopedcss\projectbundle\web.bundle.scp.css
+D:\Project\web\obj\Debug\net8.0\web.csproj.Up2Date
+D:\Project\web\obj\Debug\net8.0\web.dll
+D:\Project\web\obj\Debug\net8.0\refint\web.dll
+D:\Project\web\obj\Debug\net8.0\web.pdb
+D:\Project\web\obj\Debug\net8.0\web.genruntimeconfig.cache
+D:\Project\web\obj\Debug\net8.0\ref\web.dll

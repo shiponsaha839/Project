@@ -1,0 +1,56 @@
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\appsettings.Development.json
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\appsettings.json
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\core.exe
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\core.deps.json
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\core.runtimeconfig.json
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\core.dll
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\core.pdb
+D:\Current Project\ideahubbd\KiLikhbo\core\bin\Debug\net8.0\NHunspell.dll
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.csproj.AssemblyReference.cache
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.AssemblyInfoInputs.cache
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.AssemblyInfo.cs
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.csproj.CoreCompileInputs.cache
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.MvcApplicationPartsAssemblyInfo.cache
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets\msbuild.core.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets\msbuild.build.core.props
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.core.props
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.core.props
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\scopedcss\bundle\core.styles.css
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.csproj.CopyComplete
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.dll
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\refint\core.dll
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.pdb
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\core.genruntimeconfig.cache
+D:\Current Project\ideahubbd\KiLikhbo\core\obj\Debug\net8.0\ref\core.dll
+D:\Project\core\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\core\bin\Debug\net8.0\appsettings.json
+D:\Project\core\bin\Debug\net8.0\core.exe
+D:\Project\core\bin\Debug\net8.0\core.deps.json
+D:\Project\core\bin\Debug\net8.0\core.runtimeconfig.json
+D:\Project\core\bin\Debug\net8.0\core.dll
+D:\Project\core\bin\Debug\net8.0\core.pdb
+D:\Project\core\bin\Debug\net8.0\NHunspell.dll
+D:\Project\core\obj\Debug\net8.0\core.csproj.AssemblyReference.cache
+D:\Project\core\obj\Debug\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\core\obj\Debug\net8.0\core.AssemblyInfoInputs.cache
+D:\Project\core\obj\Debug\net8.0\core.AssemblyInfo.cs
+D:\Project\core\obj\Debug\net8.0\core.csproj.CoreCompileInputs.cache
+D:\Project\core\obj\Debug\net8.0\core.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\core\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\core\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\core\obj\Debug\net8.0\staticwebassets\msbuild.core.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\core\obj\Debug\net8.0\staticwebassets\msbuild.build.core.props
+D:\Project\core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.core.props
+D:\Project\core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.core.props
+D:\Project\core\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\core\obj\Debug\net8.0\scopedcss\bundle\core.styles.css
+D:\Project\core\obj\Debug\net8.0\core.csproj.Up2Date
+D:\Project\core\obj\Debug\net8.0\core.dll
+D:\Project\core\obj\Debug\net8.0\refint\core.dll
+D:\Project\core\obj\Debug\net8.0\core.pdb
+D:\Project\core\obj\Debug\net8.0\core.genruntimeconfig.cache
+D:\Project\core\obj\Debug\net8.0\ref\core.dll

@@ -1,2 +1,2 @@
-# SpellChecker_Project
- SpellChecker
+# SpellChecker
+Spell Checker Project
