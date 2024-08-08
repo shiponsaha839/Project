@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\core\\core.csproj",
+      "projectUniqueName": "D:\\Spell_Check\\Project\\core\\core.csproj",
       "projectName": "core",
-      "projectPath": "D:\\Project\\core\\core.csproj",
+      "projectPath": "D:\\Spell_Check\\Project\\core\\core.csproj",
       "packagesPath": "C:\\Users\\80351\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\core\\obj\\",
+      "outputPath": "D:\\Spell_Check\\Project\\core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\80351\\AppData\\Roaming\\NuGet\\NuGet.Config",

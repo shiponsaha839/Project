@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Spell_Check\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|d:\\spell_check\\project\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FD096-F2D8-4B41-88ED-DF8A6D593B93}|web\\web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:53:49.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\appsettings.json",
+              "RelativeDocumentMoniker": "web\\appsettings.json",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\appsettings.json",
+              "RelativeToolTip": "web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T13:53:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:35:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:54:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T15:36:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:28:18.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Spell_Check\\Project\\web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Spell_Check\\Project\\web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAO0AAAAAAAAAAADwv0sAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T15:54:50.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,29 +26,85 @@
 		}
 
 	#txtarea {
-		height: 100px;
+		height: auto;
 		user-select: none;
-		overflow-x: scroll
+		text-align: left;	
 	}
 
 	.incorrect {
 		background-color: red;
 	}
 </style>
-<div class="text-center">
-	<h1 class="display-4">Spell Checker</h1>
-	<textarea id="inputText" class="form-control" rows="10">
+<div class="row">
+	<div class="col-md-7">
+		<div class="text-center">
+			<h1 class="display-4">Spell Checker</h1>
+			@* <textarea id="inputText" class="form-control" rows="10">
+			জামিলস, মনিরুল ইসলাম মনির, মতলব উত্তর (চাঁদপুর) প্রতিনিধি :
+			মতলব উত্তরেবন্ধু পবিত্র ঈদুল ফিতর ও পহেলা বৈশাখ উপলক্ষ্যে আতশবাজিখু ফোটানোযজ্ঞ ও বিক্রিতেড নিষেধাজ্ঞা আরোপ করেব গণবিজ্ঞপ্তি জারিট করেছেনট উপজেলাটব নির্বাহী অফিসারটব একি মিত্র চাকমাট। পাশাপাশি উচ্চ শব্দের সাউন্ড সিষ্টেম বাজানো থেকেও বিরতট থাকতে বলাট হয়েছে।
+			মঙ্গলবার বিকেলেট জারি করা ওই গণবিজ্ঞপ্তিতে বলা হয়, এতদ্বারা সর্বসাধারণের অবগতিরব জন্য জানানো যাচ্ছে যে, আসন্ন পবিত্র ঈদুল ফিতর এবং পহেলা বৈশাখ উপলক্ষ্যে সাউন্ডবক্স/ডেক্সসেট বাজানো এবং পটকা/আতশবাজি ফোটানো ও ক্রয়-বিক্রয়ের ওপর নিষেধাজ্ঞা আরোপ করা হলো। এই আদেশ অমান্যকারীদের বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণ করা হবে।
+
+			মতলব উত্তর উপজেলা নিবাহী অফিসার একি মিত্র চাকমা বলেন, এর আগের ঈদগুলোতেও চাঁদপুরের মতলব উত্তর উপজেলায় এমন বিজ্ঞপ্তি জারি করা হয়েছে। তবে এবার ঈদ ও পহেলা বৈশাখ কাছাকাছি সময়ের ব্যবধানে হওয়ায় পহেলা বৈশাখেও এসব কার্যকলাপ থেকে সবাইকে বিরত থাকতে এ বিজ্ঞপ্তি জারি করা হয়েছে।
+			</textarea> *@
+			@* <button id="checkButton" class="btn btn-primary mt-2" data-bs-toggle="modal" data-bs-target="#exampleModal">Check</button> *@
+
+			<div id="txtarea" class="form-control">
+				<textarea	id="inputText" class="form-control" rows="10">
 জামিলস, মনিরুল ইসলাম মনির, মতলব উত্তর (চাঁদপুর) প্রতিনিধি :
 মতলব উত্তরেবন্ধু পবিত্র ঈদুল ফিতর ও পহেলা বৈশাখ উপলক্ষ্যে আতশবাজিখু ফোটানোযজ্ঞ ও বিক্রিতেড নিষেধাজ্ঞা আরোপ করেব গণবিজ্ঞপ্তি জারিট করেছেনট উপজেলাটব নির্বাহী অফিসারটব একি মিত্র চাকমাট। পাশাপাশি উচ্চ শব্দের সাউন্ড সিষ্টেম বাজানো থেকেও বিরতট থাকতে বলাট হয়েছে।        
 মঙ্গলবার বিকেলেট জারি করা ওই গণবিজ্ঞপ্তিতে বলা হয়, এতদ্বারা সর্বসাধারণের অবগতিরব জন্য জানানো যাচ্ছে যে, আসন্ন পবিত্র ঈদুল ফিতর এবং পহেলা বৈশাখ উপলক্ষ্যে সাউন্ডবক্স/ডেক্সসেট বাজানো এবং পটকা/আতশবাজি ফোটানো ও ক্রয়-বিক্রয়ের ওপর নিষেধাজ্ঞা আরোপ করা হলো। এই আদেশ অমান্যকারীদের বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণ করা হবে।
 
 মতলব উত্তর উপজেলা নিবাহী অফিসার একি মিত্র চাকমা বলেন, এর আগের ঈদগুলোতেও চাঁদপুরের মতলব উত্তর উপজেলায় এমন বিজ্ঞপ্তি জারি করা হয়েছে। তবে এবার ঈদ ও পহেলা বৈশাখ কাছাকাছি সময়ের ব্যবধানে হওয়ায় পহেলা বৈশাখেও এসব কার্যকলাপ থেকে সবাইকে বিরত থাকতে এ বিজ্ঞপ্তি জারি করা হয়েছে।
 	</textarea>
-	<button id="checkButton" class="btn btn-primary mt-2" data-bs-toggle="modal" data-bs-target="#exampleModal">Check</button>
-</div>
+			</div>
+		</div>
+	</div>
 
+	<div class="col-md-3">
+		@* <div class="modal-header">
+		<h5 class="modal-title" id="exampleModalLabel">Check Spellings</h5>
+		</div> *@
+		<div class="modal-body">
+			<div class="spell-checker">
+				<div class="txt-group">
+
+
+					<label for="txtIncorrect" class="form-label">Not In Dictionary:</label>
+					<input type="text" id="txtIncorrect" class="form-control" style="background-color: lightcoral;" disabled>
+
+					<label for="txtReplace" class="form-label">Replace With:</label>
+					<input type="text" id="txtReplace" class="form-control" disabled>
+
+					<label for="lbSuggestion" class="form-label">Suggestions:</label>
+					<select id="lbSuggestion" class="form-select" size="5">
+						<!-- Suggestions will be added here -->
+					</select>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2">
+		<div class="button-group">
+			<button id="checkButton" class="btn btn-primary mt-2">Check</button>
+			<button id="btnIgnore" class="btn btn-secondary">Ignore</button>
+			<button id="btnIgnoreAll" class="btn btn-secondary">Ignore All</button>
+			<button id="btnChange" class="btn btn-primary">Change</button>
+			<button id="btnChangeAll" class="btn btn-primary">Change All</button>
+			<button id="btnAddWord" class="btn btn-success">Add Word</button>
+			<button id="btnAddAutoCorrect" class="btn btn-warning" disabled>Add AutoCorrect</button>
+			<button id="btnIgnoreWords" class="btn btn-danger" disabled>Ignore Words</button>
+			<button id="btnSearch" class="btn btn-info" disabled>Search</button>
+			<button id="btnCloseModal" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			<button id="btnSaveChanges" type="button" class="btn btn-primary">Save changes</button>
+		</div>
+		@* <div class="modal-footer">
+		<button id="btnCloseModal" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+		<button id="btnSaveChanges" type="button" class="btn btn-primary">Save changes</button>
+		</div> *@
+	</div>
+</div>
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+@* <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-lg">
 		<div class="modal-content">
 			<div class="modal-header">
@@ -74,6 +130,7 @@
 					</div>
 
 					<div class="button-group">
+						<button id="checkButton" class="btn btn-primary mt-2" data-bs-toggle="modal" data-bs-target="#exampleModal">Check</button>
 						<button id="btnIgnore" class="btn btn-secondary">Ignore</button>
 						<button id="btnIgnoreAll" class="btn btn-secondary">Ignore All</button>
 						<button id="btnChange" class="btn btn-primary">Change</button>
@@ -91,7 +148,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> *@
 @section Scripts {
 	<script>
 		var selected_span;
@@ -128,7 +185,17 @@
 		}
 	</script>
 	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			// Call defaultFunction when the page loads
+			defaultFunction();
+		});
+
 		document.getElementById("checkButton").addEventListener("click", function () {
+			// Call defaultFunction when the button is clicked
+			defaultFunction();
+		});
+
+		function defaultFunction() {
 			var inputText = document.getElementById("inputText").value;
 			var txtarea = document.getElementById("txtarea");
 			$.ajax({
@@ -140,17 +207,19 @@
 				success: function (response) {
 					console.log(response);
 					txtarea.innerHTML = response;
-					console.log("Hello world!")
+					console.log("Hello world!");
 					selectWord();
 				},
 				error: function (xhr, status, error) {
 					console.error(error);
 				}
 			});
-		});
+		}
+
+
 	</script>
 
-	
+
 	<script>
 		//on selection change of #lbSuggestion, update #txtReplace
 		document.getElementById("lbSuggestion").addEventListener("change", function () {

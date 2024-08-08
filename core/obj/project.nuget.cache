@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gK+GaT6mQUA=",
+  "dgSpecHash": "2cUZqKXUlIk=",
   "success": true,
-  "projectFilePath": "D:\\Project\\core\\core.csproj",
+  "projectFilePath": "D:\\Spell_Check\\Project\\core\\core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\80351\\.nuget\\packages\\nhunspell\\1.2.5554.16953\\nhunspell.1.2.5554.16953.nupkg.sha512"
   ],

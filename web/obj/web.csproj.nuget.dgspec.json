@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\web\\web.csproj": {}
+    "D:\\Spell_Check\\Project\\web\\web.csproj": {}
   },
   "projects": {
-    "D:\\Project\\core\\core.csproj": {
+    "D:\\Spell_Check\\Project\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\core\\core.csproj",
+        "projectUniqueName": "D:\\Spell_Check\\Project\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "D:\\Project\\core\\core.csproj",
+        "projectPath": "D:\\Spell_Check\\Project\\core\\core.csproj",
         "packagesPath": "C:\\Users\\80351\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\core\\obj\\",
+        "outputPath": "D:\\Spell_Check\\Project\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\80351\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Project\\web\\web.csproj": {
+    "D:\\Spell_Check\\Project\\web\\web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web\\web.csproj",
+        "projectUniqueName": "D:\\Spell_Check\\Project\\web\\web.csproj",
         "projectName": "web",
-        "projectPath": "D:\\Project\\web\\web.csproj",
+        "projectPath": "D:\\Spell_Check\\Project\\web\\web.csproj",
         "packagesPath": "C:\\Users\\80351\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web\\obj\\",
+        "outputPath": "D:\\Spell_Check\\Project\\web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\80351\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Project\\core\\core.csproj": {
-                "projectPath": "D:\\Project\\core\\core.csproj"
+              "D:\\Spell_Check\\Project\\core\\core.csproj": {
+                "projectPath": "D:\\Spell_Check\\Project\\core\\core.csproj"
               }
             }
           }

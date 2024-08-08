@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\desktop\\desktop.csproj",
+      "projectUniqueName": "D:\\Spell_Check\\Project\\desktop\\desktop.csproj",
       "projectName": "desktop",
-      "projectPath": "D:\\Project\\desktop\\desktop.csproj",
+      "projectPath": "D:\\Spell_Check\\Project\\desktop\\desktop.csproj",
       "packagesPath": "C:\\Users\\80351\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\desktop\\obj\\",
+      "outputPath": "D:\\Spell_Check\\Project\\desktop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\80351\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Project\\core\\core.csproj": {
-              "projectPath": "D:\\Project\\core\\core.csproj"
+            "D:\\Spell_Check\\Project\\core\\core.csproj": {
+              "projectPath": "D:\\Spell_Check\\Project\\core\\core.csproj"
             }
           }
         }

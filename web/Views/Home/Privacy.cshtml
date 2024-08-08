@@ -1,6 +1,334 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
-}
-<h1>@ViewData["Title"]</h1>
+﻿<section class="top-banner">
+	<div class="topbar">
+		<div class="row">
+			<div class="col-md-2">
+				<div class="img-sty">
+					<img src="~/img/splogo.jpg" alt="logo" width="30px" height="30px">
+				</div>
+			</div>
+		<div class="col-md-8">
+			<div class="middel-test">
+				<p>Connect all your tasks, docs, people, and knowledge with Speel Cheaker</p>
+			</div>
+		</div>
+		<div class="col-md-2">
+				<div class="button-sty">
+				<button class="btn" data-bs-toggle="modal" data-bs-target="#loginModal">Login / Singup</button>
+			</div>
+		</div>
+			<!-- Login Modal -->
+			<div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="loginModalLabel">Login</h5>
+							<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body">
+							<div class="text-center mb-3">
+								<img src="~/img/Logo_ideahub.png" alt="Logo" width="150px" height="35px">
+							</div>
+							<h5 class="text-center">Login</h5>
+							<p class="text-center">to continue to IdeaHub</p>
+							<button class="btn btn-primary w-100 mb-2">
+								<i class="fab fa-facebook" style="margin: 8px;"></i> Sign in with Facebook
+							</button>
+							<button class="btn btn-primary w-100 mb-2">
+								<i class="fab fa-google" style="margin: 8px;"></i> Sign in with Google
+							</button>
+							<div class="text-center my-3">Or</div>
+							<form>
+								<div class="mb-3">
+									<input type="email" class="form-control" placeholder="Email">
+								</div>
+								<div class="mb-3">
+									<div class="input-group">
+										<input type="password" class="form-control" placeholder="Password">
+										<button class="btn btn-outline-secondary" type="button">Show</button>
+									</div>
+								</div>
+								<button type="submit" class="btn btn-danger w-100">LOGIN</button>
+							</form>
+							<div class="text-center mt-3">
+								<a href="#" data-bs-toggle="modal" data-bs-target="#registerModal" data-bs-dismiss="modal">Create an account</a>
+							</div>
+							<div class="text-center mt-2">
+								<a href="#">Forgot password</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Register Modal -->
+			<div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="registerModalLabel">Create an account</h5>
+							<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body">
+							<div class="text-center mb-3">
+								<img src="~/img/Logo_ideahub.png" alt="Logo" width="150px" height="35px">
+							</div>
+							<h5 class="text-center">Create an account</h5>
+							<p class="text-center">to continue to IdeaHub</p>
+							<button class="btn btn-primary w-100 mb-2">
+								<i class="fab fa-facebook" style="margin: 8px;"></i> Sign in with Facebook
+							</button>
+							<button class="btn btn-primary w-100 mb-2">
+								<i class="fab fa-google" style="margin: 8px;"></i> Sign in with Google
+							</button>
+							<div class="text-center my-3">Or</div>
+							<form>
+								<div class="mb-3">
+									<input type="text" class="form-control" placeholder="Full name">
+								</div>
+								<div class="mb-3">
+									<input type="email" class="form-control" placeholder="Email">
+								</div>
+								<div class="mb-3">
+									<div class="input-group">
+										<input type="password" class="form-control" placeholder="Password">
+										<button class="btn btn-outline-secondary" type="button">Show</button>
+									</div>
+								</div>
+								<div class="mb-3">
+									<div class="input-group">
+										<input type="password" class="form-control" placeholder="Confirm Password">
+										<button class="btn btn-outline-secondary" type="button">Show</button>
+									</div>
+								</div>
+								<p class="text-muted">Use at least 8 characters, mix of numbers & letters</p>
+								<div class="mb-3">
+									<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+								</div>
+								<button type="submit" class="btn btn-danger w-100">REGISTER</button>
+							</form>
+							<div class="text-center mt-3">
+								Already a member? <a href="#" data-bs-toggle="modal" data-bs-target="#loginModal" data-bs-dismiss="modal">Login</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
-<p>Use this page to detail your site's privacy policy.</p>
+			<!--Register Model End-->
+	</div>
+  </div>
+</section>
+<section class="welcome-text">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="text-sty">
+				<h1>Welcome to Spell Checker Softwore</h1>
+				<h6>With this software you can correct all your spellings</h6>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="sub-metter-exp">
+	<div class="row">
+	<div class="col-md-3">
+			<div class="container mt-5">
+				<div class="card" style="width: 300px;">
+					<img src="~/img/test.jpg" class="card-img-top" alt="...">
+					<div class="card-img-overlay d-flex align-items-end">
+						<div class="card-body">
+							<h5 class="card-title">Test</h5>
+							<p class="card-text">"This is test headline"</p>
+							<p class="card-text"><small>Proof Reader</small></p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+		<div class="col-md-3">
+			<div class="container mt-5">
+				<div class="card" style="width: 300px;">
+					<img src="~/img/test.jpg" class="card-img-top" alt="...">
+					<div class="card-img-overlay d-flex align-items-end">
+						<div class="card-body">
+							<h5 class="card-title">Test</h5>
+							<p class="card-text">"This is test headline"</p>
+							<p class="card-text"><small>Proof Reader</small></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="container mt-5">
+				<div class="card" style="width: 300px;">
+					<img src="~/img/test.jpg" class="card-img-top" alt="...">
+					<div class="card-img-overlay d-flex align-items-end">
+						<div class="card-body">
+							<h5 class="card-title">Test</h5>
+							<p class="card-text">"This is test headline"</p>
+							<p class="card-text"><small>Proof Reader</small></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="container mt-5">
+				<div class="card" style="width: 300px;">
+					<img src="~/img/test.jpg" class="card-img-top" alt="...">
+					<div class="card-img-overlay d-flex align-items-end">
+						<div class="card-body">
+							<h5 class="card-title">Test</h5>
+							<p class="card-text">"This is test headline"</p>
+							<p class="card-text"><small>Proof Reader</small></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="price-list">
+	<div class="row">
+		<div class="col-md-4">
+			<div class="container mt-5">
+				<div class="free-card text-left">
+					<div class="free-title">Free Forever</div>
+					<div>Best for personal use</div>
+					<div class="free-price mt-3">FREE</div>
+					<button class="btn free-button mt-3 mb-4">Free forever</button>
+					<ul class="free-features text-start">
+						<li>100MB Storage</li>
+						<li>Unlimited Tasks</li>
+						<li>Unlimited Free free Members</li>
+						<li>Two-Factor Authentication</li>
+						<li>Collaborative Docs</li>
+						<li>Whiteboards</li>
+						<li>Everything View</li>
+						<li>Real-Time Chat</li>
+						<li>Kanban Boards</li>
+						<li>Sprint Management</li>
+						<li>Calendar View</li>
+						<li>Custom Field Manager Basic</li>
+						<li>In-App Video Recording</li>
+						<li>24/7 Support</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+
+		
+		<div class="col-md-4">
+			<div class="container mt-5">
+				<div class="pro-card text-left">
+					<div class="pro-title">Pro</div>
+					<div>Business Best for mid-sized teams</div>
+					<div class="pro-price mt-3">$ 10</div>
+					<button class="btn pro-button mt-3 mb-4">Get started</button>
+					<ul class="pro-features text-start">
+						<li>Unlimited Storage</li>
+						<li>Unlimited Integrations</li>
+						<li>Unlimited Dashboards</li>
+						<li>Guests with Permissions</li>
+						<li>Unlimited Gantt Charts</li>
+						<li>Unlimited Custom Fields</li>
+						<li>Column Calculations</li>
+						<li>Teams (User Groups)</li>
+						<li>Native Time Tracking</li>
+						<li>Goals & Portfolios</li>
+						<li>Form View</li>
+						<li>Resource Management</li>
+						<li>Agile Reporting</li>
+						<li>AI Compatible</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="container mt-5">
+				<div class="enterprise-card text-left">
+					<div class="enterprise-title">Enterprise</div>
+					<div>Best for many large teams</div>
+					<div class="enterprise-price mt-3">Get a custom demo and see how ClickUp aligns with your goals.</div>
+					<button class="btn enterprise-button mt-3 mb-4">Contact sales</button>
+					<ul class="enterprise-features text-start">
+						<li>100MB Storage</li>
+						<li>Unlimited Tasks</li>
+						<li>Unlimited Free free Members</li>
+						<li>Two-Factor Authentication</li>
+						<li>Collaborative Docs</li>
+						<li>Whiteboards</li>
+						<li>Everything View</li>
+						<li>Real-Time Chat</li>
+						<li>Kanban Boards</li>
+						<li>Sprint Management</li>
+						<li>Calendar View</li>
+						<li>Custom Field Manager Basic</li>
+						<li>In-App Video Recording</li>
+						<li>24/7 Support</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="footer-area">
+	<div class="container">
+	<div class="row">
+		<div class="col-12 col-md-4">
+			<div class="footer-area">
+			<h4>Address</h4>
+			<div class="address">
+				<div class="add-2">
+					<h5>Dhaka Office</h5>
+					<p>Ground Floor, House-15, Road-8, Gulshan-1,&nbsp;Dhaka-1212</p>
+					</div>
+			</div>
+		</div>
+		</div>
+			<div class=" col-12 col-md-4 useful-link">
+			<h4>Contact</h4>
+				<ul style="margin-left: -35px;">
+					<li>
+						<svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" class="svg-inline--fa fa-envelope " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style=" width: 15px;margin-top: 0px;padding: 5px;">
+							<path fill="currentColor" d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path>
+						</svg>info@ideahubbd.com
+					</li>
+					<li>
+						<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mobile-screen" class="svg-inline--fa fa-mobile-screen " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" style="
+    width: 15px;padding: 5px;">
+							<path fill="currentColor" d="M16 64C16 28.7 44.7 0 80 0H304c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H80c-35.3 0-64-28.7-64-64V64zM144 448c0 8.8 7.2 16 16 16h64c8.8 0 16-7.2 16-16s-7.2-16-16-16H160c-8.8 0-16 7.2-16 16zM304 64H80V384H304V64z"></path>
+						</svg>(+880) 1967921081
+					</li>
+				</ul>
+		</div>
+		<div class="col-md-4">
+				<h4>Social Link</h4>
+				<span class="footer-social-icon">
+					<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/ideahubbdofficial">
+						<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" class="svg-inline--fa fa-facebook fa-xl facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="
+    width: 35px;
+    padding: 10px;
+">
+							<path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path>
+						</svg>
+					</a><a href="https://www.linkedin.com/company/ideahub-bd/" target="_blank" rel="noopener noreferrer">
+						<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" class="svg-inline--fa fa-linkedin fa-xl linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="
+    width: 30px;
+">
+							<path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path>
+						</svg>
+					</a><a href="https://api.whatsapp.com/send?phone=8801967921081" target="_blank" rel="noopener noreferrer" style="
+">
+					<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" class="svg-inline--fa fa-whatsapp fa-xl whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="width: 35px;margin: 10px;"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg> </a><a href="https://s.imoim.net/8w7noE" target="_blank" rel="noopener noreferrer">
+						<img alt="ideahub" class="imoIcon" src="data:image/png;base64,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" style="
+    width: 30px;
+">
+					</a>
+				</span>
+			</div>
+	</div>
+	</div>
+</section>
